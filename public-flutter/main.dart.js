@@ -47529,31 +47529,31 @@ case 1:return P.a4(p,r)}})
 return P.a6($async$o6,r)}}
 D.PI.prototype={}
 F.ye.prototype={
-U:function(a,b){return new S.pY(new L.xS(null),"Landing Page",X.a5M(null,C.i9),null)}}
+U:function(a,b){return new S.pY(new L.xS(null),"Yellow Tofu",X.a5M(null,C.i9),null)}}
 L.xS.prototype={
-U:function(a3,a4){var s,r,q,p,o,n,m,l,k,j,i=null,h=a4.ac(t.w).f.a,g=h.b,f=h.a,e=M.el(i,i,i,i,i,60,i,i,i),d=f>=g,c=d?f*10/100:f*2.5/100,b=f>g,a=b?f*30/100:f,a0=M.el(i,L.rz("LontarPulsa",A.fC(i,i,C.d5,i,i,i,i,i,i,i,i,24,i,i,i,i,!0,i,i,i,i,i,i,i),i,i),i,i,i,i,i,i,i),a1=T.kA(i,16,i),a2=C.S.i(0,700)
+U:function(a3,a4){var s,r,q,p,o,n,m,l,k,j,i=null,h=a4.ac(t.w).f.a,g=h.b,f=h.a,e=M.el(i,i,i,i,i,60,i,i,i),d=f>=g,c=d?f*10/100:f*2.5/100,b=f>g,a=b?f*30/100:f,a0=M.el(i,L.rz("Yellow Tofu",A.fC(i,i,C.d5,i,i,i,i,i,i,i,i,24,i,i,i,i,!0,i,i,i,i,i,i,i),i,i),i,i,i,i,i,i,i),a1=T.kA(i,16,i),a2=C.S.i(0,700)
 a2.toString
-a2=M.el(i,L.rz("Berjualan pulsa dengan mudah & aman",A.fC(i,i,a2,i,i,i,i,i,i,i,i,16,i,i,i,i,!0,i,i,i,i,i,i,i),i,i),i,i,i,i,i,i,i)
+a2=M.el(i,L.rz("Transaksi pulsa dengan mudah & aman",A.fC(i,i,a2,i,i,i,i,i,i,i,i,16,i,i,i,i,!0,i,i,i,i,i,i,i),i,i),i,i,i,i,i,i,i)
 s=T.kA(i,16,i)
 r=K.vA(10)
 q=D.a4d(i,i,i,i,i,i,i,C.d5,i,i,C.d5,i,i,i,i,i,i,i)
 p=b?f*30/100:f
 o=t.nA
-p=M.el(i,T.a5x(H.a([new L.pu(C.mi,C.j,i),T.kA(i,i,8),L.rz("Baca Dokumen",A.fC(i,i,C.j,i,i,i,i,i,i,i,i,18,i,i,i,i,!0,i,i,i,i,i,i,i),i,i)],o),C.cD,C.eu),i,new S.aP(0,p,0,1/0),new S.fU(C.d5,i,i,K.vA(10),i,i,C.a8),i,i,new V.b7(16,4,16,4),i)
+p=M.el(i,T.a5x(H.a([new L.pu(C.mi,C.j,i),T.kA(i,i,8),L.rz("Baca Dokumen API",A.fC(i,i,C.j,i,i,i,i,i,i,i,i,18,i,i,i,i,!0,i,i,i,i,i,i,i),i,i)],o),C.cD,C.eu),i,new S.aP(0,p,0,1/0),new S.fU(C.d5,i,i,K.vA(10),i,i,C.a8),i,i,new V.b7(16,4,16,4),i)
 n=T.kA(i,12,i)
 m=C.S.i(0,700)
 m.toString
-m=M.el(i,L.rz("Mengapa LontarPulsa ?",A.fC(i,i,m,i,i,i,i,i,i,i,i,14,i,C.bn,i,i,!0,i,i,i,i,i,i,i),i,i),i,i,i,i,i,i,i)
+m=M.el(i,L.rz("Mengapa Yellow Tofu ?",A.fC(i,i,m,i,i,i,i,i,i,i,i,14,i,C.bn,i,i,!0,i,i,i,i,i,i,i),i,i),i,i,i,i,i,i,i)
 l=T.kA(i,8,i)
 k=b?f*30/100:f
 j=C.S.i(0,500)
 j.toString
-a=H.a([T.a0b(M.el(i,T.a3V(H.a([a0,a1,a2,s,new T.wi(r,new D.wZ(new L.NX(),i,q,C.D,i,!1,p,i),i),n,m,l,M.el(i,L.rz("LontarPulsa merupakan platform yang menyediakan penjualan pulsa dengan mudah dan aman. Digunakan oleh aplikasi Thawaf",A.fC(i,i,j,i,i,i,i,i,i,i,i,13,i,i,i,i,!0,i,i,i,i,i,i,i),i,i),i,new S.aP(0,k,0,1/0),i,i,i,i,i)],o),C.cC,C.eu),i,new S.aP(0,a,0,1/0),i,i,i,i,i))],o)
+a=H.a([T.a0b(M.el(i,T.a3V(H.a([a0,a1,a2,s,new T.wi(r,new D.wZ(new L.NX(),i,q,C.D,i,!1,p,i),i),n,m,l,M.el(i,L.rz("Yellow Tofu merupakan platform yang menyediakan penjualan pulsa dengan mudah dan aman. Digunakan oleh aplikasi Thawaf",A.fC(i,i,j,i,i,i,i,i,i,i,i,13,i,i,i,i,!0,i,i,i,i,i,i,i),i,i),i,new S.aP(0,k,0,1/0),i,i,i,i,i)],o),C.cC,C.eu),i,new S.aP(0,a,0,1/0),i,i,i,i,i))],o)
 if(b){d=d?f*10/100:f*2.5/100
 b=g*10/100
-a.push(T.a0b(M.el(i,new U.pw(M.af_(i,i,new L.om("assets/images/thawaf.png",i,i)),i),i,i,i,i,i,new V.b7(d,b,d,b),i)))}return new M.r1(T.a3V(H.a([e,T.a0b(M.el(i,T.a5x(a,C.cD,C.et),i,i,i,i,i,new V.b7(c,0,c,0),i)),M.el(C.aK,L.rz("LontarPulsa \xa9 2021",A.fC(i,i,C.S.i(0,700),i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i,i),i,i),i,i,i,30,i,i,f)],o),C.cD,C.et),i)}}
+a.push(T.a0b(M.el(i,new U.pw(M.af_(i,i,new L.om("assets/images/phone.png",i,i)),i),i,i,i,i,i,new V.b7(d,b,d,b),i)))}return new M.r1(T.a3V(H.a([e,T.a0b(M.el(i,T.a5x(a,C.cD,C.et),i,i,i,i,i,new V.b7(c,0,c,0),i)),M.el(C.aK,L.rz("Yellow Tofu \xa9 2021",A.fC(i,i,C.S.i(0,700),i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i,i),i,i),i,i,i,30,i,i,f)],o),C.cD,C.et),i)}}
 L.NX.prototype={
-$0:function(){T.a_c("http://docs.yuuwah.xyz")},
+$0:function(){T.a_c("http://docs.yellowtofu.asia")},
 $S:0}
 E.PF.prototype={}
 E.hH.prototype={
